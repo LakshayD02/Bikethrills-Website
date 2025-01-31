@@ -1,6 +1,20 @@
-# Bikethrills-Website
-A Responsive Bike Renting Website with Database
+# BikeThrills - Full Stack Bike Renting Website 🚴‍♂️💨
 
-This website helps users rent bikes on rent on a daily basis. The users can register themselves as renters and can take any bike as shown on the website. The customer also has to upload license proof to take the bike for rent. The website has been designed using HTML, CSS, Javascript, PHP, and MySQL Database.
+BikeThrills is a full-stack responsive bike renting platform designed to make your bike rental experience quick and easy. Whether you need a bike for a casual ride or a longer trip, you can find a variety of bikes available for rent with a smooth, user-friendly interface.
 
-Deployed Link: https://bikethrills.000webhostapp.com/
+# Features:
+
+- Home Page 🏠: A welcoming landing page with easy navigation to other sections.
+- About Page ℹ️: Learn more about BikeThrills and the services offered.
+- Register/Login 🔑: User registration and login system to access your account.
+- Email OTP Authentication 📧🔒: Added security with email OTP for user verification.
+- Bike Renting 🚲: Browse and select from a range of bikes available for rent.
+- Password Recovery 🔑❓: Reset your password if you've forgotten it.
+- Payment Interface 💳✨: Smooth payment process with a cool credit card animation.
+- OTP Verification 🔐: OTP verification for confirming important actions.
+
+# Tech Stack:
+
+- Frontend: HTML, CSS, JavaScript (JS), jQuery, AJAX
+- Backend: PHP
+- Database: MySQL
